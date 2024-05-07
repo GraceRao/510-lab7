@@ -5,3 +5,5 @@ st-annotated-text
 requests
 beautifulsoup4
 google-generativeai
+sentence-transformers
+tiktoken
